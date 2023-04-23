@@ -1,5 +1,5 @@
 Срочно 🔥
-{% if product_type != None %} {{ product_type }} {% endif %}
+{% if product_type != None %}{{ product_type }}{% endif %}
 {{ product_name }}
 {{ product_price }} 
 Размеры : {{ product_sizes }}
