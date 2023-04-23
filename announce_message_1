@@ -1,0 +1,7 @@
+Срочно 🔥
+{{ product_type }}
+{{ product_name }}
+{{ product_price }} 
+Размеры : {{ product_sizes }}
+
+Ссылка: {{product_link}}
