@@ -1,0 +1,9 @@
+Срочно 🔥
+{{ product_type }}
+<b> {{ product_name }} </b>
+Цена : {{ product_price }}
+
+Размеры : 
+{{ product_sizes }}
+
+<a href="{{product_url}}"> Ссылка </a>
