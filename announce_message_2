@@ -1,9 +1,9 @@
-Срочно 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-{{ product_type }}
-{{ product_name }}
-Цена : {{ product_price }} 
+{{ product_brand }}💥💥💥 
+⚡️ {{ product_name }}
+Цена : {{ product_price }} 🤸🏼‍♀️
 
 Размеры : 
 {{ product_sizes }}
 
 Ссылка: {{product_url}}
+#{{ product_brand }}
