@@ -2,6 +2,7 @@
 {{ product_type }}
 {{ product_name }}
 Цена : {{ product_price }} 
+
 Размеры : 
 {{ product_sizes }}
 
