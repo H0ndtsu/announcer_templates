@@ -6,4 +6,4 @@
 Размеры : 
 {{ product_sizes }}
 
-Ссылка: {{product_url}}
+<a href="{{product_url}}"> Ссылка </a>
