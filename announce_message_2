@@ -1,9 +1,10 @@
 {{ product_brand }}💥💥💥 
-⚡️ {{ product_name }}
-Цена : {{ product_price }} 🤸🏼‍♀️
+⚡️ <b> {{ product_name }} </b>
+Цена : <u> {{ product_price }} </u> 🤸🏼‍♀️
 
 Размеры : 
 {{ product_sizes }}
 
-Ссылка: {{product_url}}
+<a href="{{product_url}}"> Ссылка <a>
+
 #{{ product_brand }}
