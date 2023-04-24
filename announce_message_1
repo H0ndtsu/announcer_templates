@@ -5,4 +5,4 @@
 Размеры : 
 {{ product_sizes }}
 
-Ссылка: {{product_link}}
+Ссылка: {{product_url}}
