@@ -1,4 +1,4 @@
-{{ product_brandname }} 🔥
+{{ product_brand }} 🔥
 {{ product_type }}
 <b> {{ product_name }} </b>
 Цена : {{ product_price }}
